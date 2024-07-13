@@ -720,6 +720,9 @@ footer .copyright{
     table-layout: fixed;
     white-space: nowrap;
 }
+#bar{
+    cursor: pointer;
+}
 #cart table img{
     width: 70px;
 }
